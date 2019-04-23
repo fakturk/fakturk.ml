@@ -2,9 +2,9 @@
 title: "Fatih Akturk"
 email: f.akturk@gmail.com
 description: "A dark blog theme for Jekyll."
-baseurl: ""
+baseurl: "fakturk.ml"
 url: "fakturk.ml"
-title_description: "Machine Learning Researcher @SquareFalcon"
+title_description: "Machine Learning Researcher <a href=\" https://squarefalcon.com">@SquareFalcon</a> "
 title_image: "https://www.gravatar.com/avatar/f0ed8a368e164c2a86487c137fd9995e?s=500&d=mm"
 google_analytics: "UA-138588166-1"
 disqus_account: cartenoire
